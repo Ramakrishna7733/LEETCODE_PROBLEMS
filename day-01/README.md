@@ -9,5 +9,5 @@ Total Problems Solved: 1
 1. Two Sum
 Problem Number: 1
 Difficulty: Easy
-Concepts Used: Arrays, Hash Map
+Concepts Used: Arrays
 Problem Link: https://leetcode.com/problems/two-sum/
