@@ -1,6 +1,6 @@
 # LeetCode Journey – Day 02
 
-**Date:** 03-07-2026
+**Date:** 04-07-2026
 
 ## Progress
 
