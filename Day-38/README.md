@@ -1,6 +1,6 @@
-# LeetCode Journey – Day 37
+# LeetCode Journey – Day 38
 
-**Date:** 08-08-2026
+**Date:** 09-08-2026
 
 ## Progress
 
@@ -8,9 +8,9 @@
 
 ## Problem Details
 
-### 1. Majority Element
+### 1. Best Time to Buy and Sell Stock
 
-* **Problem Number:** 169
+* **Problem Number:** 121
 * **Difficulty:** Easy
-* **Concepts Used:** Arrays, Hash Map, Boyer-Moore Voting Algorithm, Frequency Counting
-* **Problem Link:** https://leetcode.com/problems/majority-element/
+* **Concepts Used:** Arrays, Greedy, One-Pass Traversal, Minimum Tracking
+* **Problem Link:** https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
