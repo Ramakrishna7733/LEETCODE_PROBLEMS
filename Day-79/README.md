@@ -1,6 +1,6 @@
 # LeetCode Journey – Day 77
 
-**Date:** 17-09-2026
+**Date:** 19-09-2026
 
 ## Progress
 
@@ -8,9 +8,9 @@
 
 ## Problem Details
 
-### 1. Minimum Average of Smallest and Largest Elements
+### 1. Find All Numbers Disappeared in an Array
 
-* **Problem Number:** 3194
+* **Problem Number:** 448
 * **Difficulty:** Easy
-* **Concepts Used:** Arrays, Sorting, Two Pointers, Average Calculation
-* **Problem Link:** https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/
+* **Concepts Used:** Arrays, Hash Set, In-place Array Modification, Index Mapping
+* **Problem Link:** https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/
