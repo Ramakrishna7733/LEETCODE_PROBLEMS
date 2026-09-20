@@ -1,4 +1,4 @@
-# LeetCode Journey – Day 77
+# LeetCode Journey – Day 79
 
 **Date:** 19-09-2026
 
