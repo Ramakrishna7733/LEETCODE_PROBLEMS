@@ -5,7 +5,7 @@
 
 ## Progress
 
-- **Problems Solved Today:** 1
+- **Problems Solved Today:** 2
 
 ## Problem Details
 
@@ -13,5 +13,12 @@
 
 - **Problem Number:** 2011
 - **Difficulty:** Easy
-- **Concepts Used:** Arrays, Strings, Simulation, Iteration
+- **Concepts Used:** Strings, Arrays, Simulation, Iteration
 - **Problem Link:** https://leetcode.com/problems/final-value-of-variable-after-performing-operations/
+
+### 2. Reverse Degree of a String
+
+- **Problem Number:** 3498
+- **Difficulty:** Easy
+- **Concepts Used:** Strings, Character Manipulation, ASCII Values, Iteration
+- **Problem Link:** https://leetcode.com/problems/reverse-degree-of-a-string/
