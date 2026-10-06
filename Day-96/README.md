@@ -1,6 +1,6 @@
 # LeetCode Journey – Day 96
 
-**Date:** 07-10-2026
+**Date:** 06-10-2026
 
 ## Progress
 
@@ -12,7 +12,7 @@
 
 - **Problem Number:** 13
 - **Difficulty:** Easy
-- **Concepts Used:** Strings, Hash Map, Greedy, Symbol Comparison
+- **Concepts Used:** Strings, Hash Map, Greedy, Character Mapping
 - **Problem Link:** https://leetcode.com/problems/roman-to-integer/
 
 ### 2. Intersection of Two Arrays II
