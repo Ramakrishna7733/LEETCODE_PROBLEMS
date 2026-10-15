@@ -1,4 +1,5 @@
 
+
 # LeetCode Journey – Day 105
 
 **Date:** 15-10-2026
@@ -9,10 +10,10 @@
 
 ## Problem Details
 
-### 1. Maximize Sum of Squares of Digits
+### 1. Subarrays Distinct Element Sum of Squares I
 
-- **Problem Number:** 3723
-- **Difficulty:** Medium
-- **Concepts Used:** Greedy, Mathematics, Digit Manipulation, String Construction
-- **Problem Link:** https://leetcode.com/problems/maximize-sum-of-squares-of-digits/
+- **Problem Number:** 2913
+- **Difficulty:** Easy
+- **Concepts Used:** Arrays, Subarrays, Frequency Counting, Hashing, Brute Force
+- **Problem Link:** https://leetcode.com/problems/subarrays-distinct-element-sum-of-squares-i/
 
